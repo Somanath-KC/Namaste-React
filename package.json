@@ -1,0 +1,23 @@
+{
+    "name": "namaste-react",
+    "version": "1.0.0",
+    "description": "Learning Repo for Namaste React",
+    "main": "App.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Somanath-KC/Namaste-React.git"
+    },
+    "keywords": [],
+    "author": "Somanath KC",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Somanath-KC/Namaste-React/issues"
+    },
+    "homepage": "https://github.com/Somanath-KC/Namaste-React#readme",
+    "devDependencies": {
+        "parcel": "^2.12.0"
+    }
+}
