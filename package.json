@@ -4,6 +4,8 @@
     "description": "Learning Repo for Namaste React",
     "main": "App.js",
     "scripts": {
+        "start": "parcel index.html",
+        "build": "parcel build index",
         "test": "jest"
     },
     "repository": {
